@@ -26,8 +26,9 @@ Or install it yourself as:
     $ gem install jquery-dotdotdot-rails
 
 Add this line in application.js
+
     //= require jquery.dotdotdot
-    
+
 ## Contributing
 
 1. Fork it
